@@ -1,0 +1,17 @@
+{
+    "name": "valerjan/test-task",
+    "autoload": {
+        "psr-4": {
+            "App\\Model\\": "app/models",
+            "App\\Controller\\": "app/controllers",
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valerii",
+            "email": "nyshnui@gmail.com"
+        }
+    ],
+    "require": {}
+}
